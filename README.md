@@ -3,7 +3,6 @@
 This is a simple web page showcasing different travel destinations with information about each location. The project uses HTML and CSS for the layout and styling.
 
 ## Screenshot
-Include a screenshot of your web page here.
 
 ![Visit Web Page](screenshot.png)
 
